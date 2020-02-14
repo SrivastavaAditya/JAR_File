@@ -1,2 +1,2 @@
-include ':app'
 rootProject.name='JARFileLibrary'
+include ':app', ':aar-library'
